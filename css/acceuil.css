@@ -1,0 +1,73 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    width: 100vw;
+    height: 100vh;
+}
+section {
+    margin: 0;
+    padding: 0;
+    height: 6vh;
+    width: 100vw;
+    background-color: blueviolet;
+}
+
+.inscription {
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    left: 2vw;
+    height: 3vh;
+    width: 7vw;
+    top: 1.5vh;
+    border-radius: 3px;
+    border: none;
+}
+.visiter {
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    left: 11vw;
+    height: 3vh;
+    width: 10vw;
+    top: 1.5vh;
+    border-radius: 3px;
+    border: none;
+}
+
+.email {
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    left: 62vw;
+    height: 4vh;
+    width: 15vw;
+    top: 1vh;
+    border-radius: 3px;
+    border: none;
+}
+.password{
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    left: 78vw;
+    height: 4vh;
+    width: 15vw;
+    top: 1vh;
+    border-radius: 3px;
+    border: none;
+}
+.submit{
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    left: 94vw;
+    height: 3vh;
+    width: 5vw;
+    top: 1.5vh;
+    border-radius: 3px;
+    border: none;
+}
+.visiter {
+    position: absolute
+}

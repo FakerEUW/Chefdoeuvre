@@ -1,0 +1,92 @@
+html, body{
+    padding: 0;
+    margin: 0;
+    width: 100vw;
+    height: 100vh;
+    background-color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial;
+}
+
+main {
+    top: -0vh;
+    margin: 0;
+    padding: 0;
+    height: 5vh;
+    width: 100vw;
+    background-color: gray;
+    margin-bottom: 4vh;
+}
+.tendances {
+    position: absolute;
+    background-color: #fff;
+    height: 5vh;
+    width: 8vw;
+    left: 10vw;
+    top: -1.6vh;
+}
+.genres {
+    position: absolute;
+    background-color: #fff;
+    height: 5vh;
+    width: 8vw;
+    left: 24vw;
+    top: -1.6vh;
+}
+.creer {
+    position: absolute;
+    background-color: #fff;
+    height: 5vh;
+    width: 8vw;
+    left: 38vw;
+    top: -1.6vh;
+}
+li {
+    display: none;
+}
+.categories {
+    text-align: center;
+    font-size: 1em;
+    position: absolute;
+}
+
+.nom{
+    padding: 1vh;
+    margin: 0;
+    position: absolute;
+    top: 20vh;
+    left: 5vw;
+}
+
+.titre{
+    padding: 1vh;
+    margin:0;
+    position: absolute;
+    top: 26vh;
+    left: 2.5vw;
+    width: 15vw;
+    border-radius: .2vh;
+}
+
+.content{
+    padding: 1vh;
+    margin: 0;
+    position: absolute;
+    top: 32vh;
+    width: 20vw;
+    height:40vh;
+    border-radius: .2vh;
+}
+
+.submit{
+    padding: 1vh;
+    margin: 0;
+    position: absolute;
+    top: 76vh;
+    border-radius: .2vh;
+    width: 7.5vw;
+    left: 7vw;
+}
+
+.particip {
+    position: fixed;
+}

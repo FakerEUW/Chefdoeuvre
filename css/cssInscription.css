@@ -1,0 +1,63 @@
+.formInscription {
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    height: 70vh;
+    width: 25vw;
+    left: 37.5vw;
+    top: 15vh;
+    background-color: black;
+    border-radius: 15px;
+    display: none;
+}
+.openForm {
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    height: 70vh;
+    width: 25vw;
+    left: 37.5vw;
+    top: 15vh;
+    background-color: black;
+    border-radius: 15px;
+}
+.closeForm {
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    height: 70vh;
+    width: 25vw;
+    left: 37.5vw;
+    top: 15vh;
+    background-color: black;
+    border-radius: 15px;
+    display: none;
+}
+.pseudonyme {
+    position: absolute;
+    height: 3vh;
+    width: 10vw;
+    left: 7.5vw;
+    top: 25vh;
+}
+.eMail {
+    position: absolute;
+    height: 3vh;
+    width: 10vw;
+    left: 7.5vw;
+    top: 32vh;
+}
+.mdp {
+    position: absolute;
+    height: 3vh;
+    width: 10vw;
+    left: 7.5vw;
+    top: 39vh;
+}
+.soumettre {
+    position: absolute;
+    height: 3vh;
+    width: 8vw;
+    left: 8.5vw;
+    top: 46vh;
+}
